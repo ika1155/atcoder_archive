@@ -1,0 +1,12 @@
+{
+	"id": 27329555,
+	"epoch_second": 1637313587,
+	"problem_id": "panasonic2020_b",
+	"contest_id": "panasonic2020",
+	"user_id": "Shidas",
+	"language": "Python (3.8.2)",
+	"point": 200,
+	"length": 210,
+	"result": "AC",
+	"execution_time": 26
+}
